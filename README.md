@@ -3,7 +3,10 @@
 ## I'm Laila!
 
 <div align="center">
-  
+  <img src="Hello World!.jpeg" alt="Banner" width="50%">
+
+## I'm Laila!
+
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laila-marques-686259347/)
  
 
