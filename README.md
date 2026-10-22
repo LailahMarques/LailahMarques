@@ -1,4 +1,4 @@
-<img src="Hello World!.jpeg" alt="Banner" width="100%">
+<img src="Hello World!.jpeg" alt="Banner" width="50%">
 
 ## I'm Laila!
 
