@@ -1,7 +1,16 @@
 <img src="Hello World!.jpeg" alt="Banner" width="100%">
 
+## I'm Laila!
 
-## Hi there 👋
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laila-marques-686259347/)
+ 
+
+</div>
+
+
+
 
 <!--
 **LailahMarques/LailahMarques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
