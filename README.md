@@ -4,9 +4,8 @@
 ## I'm Laila!
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laila-marques-686259347/)
-
- <br>
-**Electronics Technician & Robotics Engineering Student**
+  
+Electronics Technician & Robotics Engineering Student
 </div>
 
 
